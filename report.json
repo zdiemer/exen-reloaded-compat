@@ -10,14 +10,14 @@
    "group": "playable",
    "status": "running",
    "idle_status": "running",
-   "presented": 1578,
+   "presented": 1508,
    "ticks": 1500,
    "period_ms": 80,
-   "distinct_screens": 29,
-   "screens_from_input": 16,
+   "distinct_screens": 199,
+   "screens_from_input": 186,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.4
+   "run_seconds": 0.45
   },
   {
    "game": "AgeOfEmpiresMobile",
@@ -35,7 +35,7 @@
    "screens_from_input": 94,
    "flat_ratio": 0.003,
    "unimplemented": [],
-   "run_seconds": 0.61
+   "run_seconds": 0.79
   },
   {
    "game": "Arthur&LesPirates",
@@ -53,7 +53,7 @@
    "screens_from_input": 68,
    "flat_ratio": 0.003,
    "unimplemented": [],
-   "run_seconds": 0.31
+   "run_seconds": 0.35
   },
   {
    "game": "BanjoKazooie",
@@ -71,7 +71,7 @@
    "screens_from_input": 86,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.32
+   "run_seconds": 0.38
   },
   {
    "game": "BombJack",
@@ -82,14 +82,14 @@
    "group": "playable",
    "status": "running",
    "idle_status": "running",
-   "presented": 1487,
+   "presented": 1497,
    "ticks": 1500,
    "period_ms": 80,
-   "distinct_screens": 125,
-   "screens_from_input": 120,
+   "distinct_screens": 134,
+   "screens_from_input": 128,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.3
+   "run_seconds": 0.38
   },
   {
    "game": "BombSquad",
@@ -107,7 +107,7 @@
    "screens_from_input": 14,
    "flat_ratio": 0.003,
    "unimplemented": [],
-   "run_seconds": 0.38
+   "run_seconds": 0.43
   },
   {
    "game": "Charmed",
@@ -125,7 +125,7 @@
    "screens_from_input": 67,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.27
+   "run_seconds": 0.77
   },
   {
    "game": "Crash Bandicoot",
@@ -143,7 +143,7 @@
    "screens_from_input": 23,
    "flat_ratio": 0.003,
    "unimplemented": [],
-   "run_seconds": 0.28
+   "run_seconds": 0.76
   },
   {
    "game": "CrazyCobra2",
@@ -157,11 +157,11 @@
    "presented": 1501,
    "ticks": 1500,
    "period_ms": 100,
-   "distinct_screens": 237,
-   "screens_from_input": 233,
+   "distinct_screens": 228,
+   "screens_from_input": 224,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.51
+   "run_seconds": 0.85
   },
   {
    "game": "EagleSquadron",
@@ -175,11 +175,11 @@
    "presented": 1500,
    "ticks": 1500,
    "period_ms": 100,
-   "distinct_screens": 139,
-   "screens_from_input": 130,
+   "distinct_screens": 268,
+   "screens_from_input": 259,
    "flat_ratio": 0.01,
    "unimplemented": [],
-   "run_seconds": 0.44
+   "run_seconds": 0.68
   },
   {
    "game": "FighterPilotEvolved",
@@ -193,11 +193,11 @@
    "presented": 1500,
    "ticks": 1500,
    "period_ms": 100,
-   "distinct_screens": 9,
-   "screens_from_input": 6,
+   "distinct_screens": 172,
+   "screens_from_input": 169,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.46
+   "run_seconds": 0.5
   },
   {
    "game": "Flynn",
@@ -215,7 +215,7 @@
    "screens_from_input": 80,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.34
+   "run_seconds": 0.37
   },
   {
    "game": "FootballFans",
@@ -229,11 +229,11 @@
    "presented": 1500,
    "ticks": 1500,
    "period_ms": 100,
-   "distinct_screens": 19,
-   "screens_from_input": 9,
-   "flat_ratio": 0.0,
+   "distinct_screens": 204,
+   "screens_from_input": 194,
+   "flat_ratio": 0.007,
    "unimplemented": [],
-   "run_seconds": 0.21
+   "run_seconds": 0.26
   },
   {
    "game": "GhostHunter",
@@ -247,11 +247,11 @@
    "presented": 1500,
    "ticks": 1500,
    "period_ms": 100,
-   "distinct_screens": 245,
-   "screens_from_input": 242,
-   "flat_ratio": 0.027,
+   "distinct_screens": 176,
+   "screens_from_input": 173,
+   "flat_ratio": 0.003,
    "unimplemented": [],
-   "run_seconds": 0.32
+   "run_seconds": 0.34
   },
   {
    "game": "IFPingPong",
@@ -287,7 +287,7 @@
    "screens_from_input": 45,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.24
+   "run_seconds": 0.32
   },
   {
    "game": "IFRacing2",
@@ -298,14 +298,14 @@
    "group": "playable",
    "status": "running",
    "idle_status": "running",
-   "presented": 1586,
+   "presented": 1505,
    "ticks": 1500,
    "period_ms": 100,
-   "distinct_screens": 18,
-   "screens_from_input": 10,
+   "distinct_screens": 59,
+   "screens_from_input": 51,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.61
+   "run_seconds": 0.67
   },
   {
    "game": "IFSkiExtreme",
@@ -323,7 +323,7 @@
    "screens_from_input": 36,
    "flat_ratio": 0.007,
    "unimplemented": [],
-   "run_seconds": 0.41
+   "run_seconds": 0.39
   },
   {
    "game": "IFSkiJumping",
@@ -341,7 +341,7 @@
    "screens_from_input": 46,
    "flat_ratio": 0.01,
    "unimplemented": [],
-   "run_seconds": 0.29
+   "run_seconds": 0.31
   },
   {
    "game": "IFSudoku",
@@ -359,7 +359,7 @@
    "screens_from_input": 20,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.54
+   "run_seconds": 0.62
   },
   {
    "game": "JungleRun",
@@ -377,7 +377,7 @@
    "screens_from_input": 220,
    "flat_ratio": 0.013,
    "unimplemented": [],
-   "run_seconds": 0.36
+   "run_seconds": 0.35
   },
   {
    "game": "MalibuRide2",
@@ -395,7 +395,7 @@
    "screens_from_input": 113,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.32
+   "run_seconds": 0.31
   },
   {
    "game": "MidtownMadness3",
@@ -413,7 +413,7 @@
    "screens_from_input": 125,
    "flat_ratio": 0.003,
    "unimplemented": [],
-   "run_seconds": 0.45
+   "run_seconds": 0.48
   },
   {
    "game": "MonkeyBusiness",
@@ -431,7 +431,7 @@
    "screens_from_input": 45,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.87
+   "run_seconds": 0.63
   },
   {
    "game": "MotoGp",
@@ -449,7 +449,7 @@
    "screens_from_input": 137,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.38
+   "run_seconds": 0.62
   },
   {
    "game": "MutantAlert",
@@ -460,14 +460,14 @@
    "group": "playable",
    "status": "running",
    "idle_status": "running",
-   "presented": 1588,
+   "presented": 1508,
    "ticks": 1500,
    "period_ms": 125,
-   "distinct_screens": 11,
-   "screens_from_input": 7,
+   "distinct_screens": 31,
+   "screens_from_input": 27,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.28
+   "run_seconds": 0.27
   },
   {
    "game": "Panko",
@@ -485,7 +485,7 @@
    "screens_from_input": 5,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.42
+   "run_seconds": 0.46
   },
   {
    "game": "Pikubi",
@@ -496,14 +496,14 @@
    "group": "playable",
    "status": "running",
    "idle_status": "running",
-   "presented": 1281,
+   "presented": 1308,
    "ticks": 1500,
    "period_ms": 125,
-   "distinct_screens": 168,
-   "screens_from_input": 161,
+   "distinct_screens": 178,
+   "screens_from_input": 171,
    "flat_ratio": 0.004,
    "unimplemented": [],
-   "run_seconds": 0.92
+   "run_seconds": 0.37
   },
   {
    "game": "Pikubi2",
@@ -521,7 +521,7 @@
    "screens_from_input": 145,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.45
+   "run_seconds": 0.41
   },
   {
    "game": "Reversi",
@@ -539,7 +539,7 @@
    "screens_from_input": 12,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.35
+   "run_seconds": 0.34
   },
   {
    "game": "SexyBreakerBikini",
@@ -553,11 +553,11 @@
    "presented": 1500,
    "ticks": 1500,
    "period_ms": 100,
-   "distinct_screens": 12,
-   "screens_from_input": 8,
-   "flat_ratio": 0.023,
+   "distinct_screens": 17,
+   "screens_from_input": 13,
+   "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.3
+   "run_seconds": 0.42
   },
   {
    "game": "SexyManga",
@@ -571,11 +571,11 @@
    "presented": 1500,
    "ticks": 1500,
    "period_ms": 100,
-   "distinct_screens": 25,
-   "screens_from_input": 21,
-   "flat_ratio": 0.017,
+   "distinct_screens": 26,
+   "screens_from_input": 22,
+   "flat_ratio": 0.003,
    "unimplemented": [],
-   "run_seconds": 0.45
+   "run_seconds": 0.33
   },
   {
    "game": "SexyVideoPoker",
@@ -593,7 +593,7 @@
    "screens_from_input": 95,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.52
+   "run_seconds": 0.51
   },
   {
    "game": "ShadoFighter",
@@ -611,7 +611,7 @@
    "screens_from_input": 49,
    "flat_ratio": 0.033,
    "unimplemented": [],
-   "run_seconds": 0.47
+   "run_seconds": 0.39
   },
   {
    "game": "SouthPark",
@@ -625,11 +625,11 @@
    "presented": 1500,
    "ticks": 1500,
    "period_ms": 125,
-   "distinct_screens": 146,
-   "screens_from_input": 142,
+   "distinct_screens": 152,
+   "screens_from_input": 148,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.69
+   "run_seconds": 0.5
   },
   {
    "game": "SphereMadness",
@@ -647,7 +647,7 @@
    "screens_from_input": 48,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.51
+   "run_seconds": 0.49
   },
   {
    "game": "SphereMadness2",
@@ -665,7 +665,7 @@
    "screens_from_input": 67,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.89
+   "run_seconds": 0.6
   },
   {
    "game": "Spyro",
@@ -683,7 +683,7 @@
    "screens_from_input": 4,
    "flat_ratio": 0.003,
    "unimplemented": [],
-   "run_seconds": 0.93
+   "run_seconds": 0.78
   },
   {
    "game": "StarWars3",
@@ -701,7 +701,7 @@
    "screens_from_input": 50,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.78
+   "run_seconds": 0.35
   },
   {
    "game": "TheTerminator",
@@ -719,7 +719,7 @@
    "screens_from_input": 159,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.55
+   "run_seconds": 0.43
   },
   {
    "game": "TombRaider",
@@ -737,7 +737,7 @@
    "screens_from_input": 102,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.47
+   "run_seconds": 0.62
   },
   {
    "game": "TombRaider2",
@@ -755,7 +755,7 @@
    "screens_from_input": 73,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.45
+   "run_seconds": 0.38
   },
   {
    "game": "TombRaider3",
@@ -773,7 +773,7 @@
    "screens_from_input": 104,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.28
+   "run_seconds": 0.34
   },
   {
    "game": "TourDeFrance",
@@ -791,7 +791,7 @@
    "screens_from_input": 55,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.51
+   "run_seconds": 0.47
   },
   {
    "game": "Worms",
@@ -809,7 +809,7 @@
    "screens_from_input": 135,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.37
+   "run_seconds": 0.33
   },
   {
    "game": "XMasTales",
@@ -827,7 +827,7 @@
    "screens_from_input": 167,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.28
+   "run_seconds": 0.26
   },
   {
    "game": "ZooTycoon2",
@@ -845,7 +845,7 @@
    "screens_from_input": 24,
    "flat_ratio": 0.0,
    "unimplemented": [],
-   "run_seconds": 0.44
+   "run_seconds": 0.29
   }
  ]
 }
